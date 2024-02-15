@@ -1,0 +1,16 @@
+
+i
+java:S1192%"GDefine a constant instead of duplicating this literal "Hata: " 3 times.(Í½Üøÿÿÿÿ8§öàÚ1
+i
+java:S2095M"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8Ì¾ıàÚ1
+j
+java:S2095J"HUse try-with-resources or close this "Connection" in a "finally" clause.( éæ¶ıÿÿÿÿ8Ì¾ıàÚ1
+L	java:S106#"+Replace this use of System.out by a logger.(†–£„ıÿÿÿÿ8Ì§öàÚ1
+L	java:S106%"+Replace this use of System.out by a logger.(Í½Üøÿÿÿÿ8Í§öàÚ1
+G	java:S1066"+Replace this use of System.out by a logger.(ÆøÓÉ8Ğ§öàÚ1
+L	java:S1068"+Replace this use of System.out by a logger.(Í½Üøÿÿÿÿ8Ò§öàÚ1
+G	java:S1069"+Replace this use of System.out by a logger.(½‹è¤8Ó§öàÚ1
+L	java:S106<"+Replace this use of System.out by a logger.(†–£„ıÿÿÿÿ8Ó§öàÚ1
+G	java:S106?"+Replace this use of System.out by a logger.(Ïÿ’­8Ó§öàÚ1
+X
+java:S6437J"6Revoke and change this password, as it is compromised.( éæ¶ıÿÿÿÿ8Õ§öàÚ1
